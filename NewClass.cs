@@ -6,5 +6,10 @@ namespace vjezba1
 {
     class NewClass
     {
+        static void MyMethod() 
+    	{
+            a + b = c;
+            //nesto san napravia
+         }
     }
 }
