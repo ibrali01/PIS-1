@@ -6,9 +6,10 @@ namespace vjezba1
 {
     class NewClass
     {
-        static void MyMethod()
-        {
-            // code to be executed
-        }
+        static void MyMethod() 
+    	{
+            a + b = c;
+            //nesto san napravia
+         }
     }
 }
